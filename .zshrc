@@ -11,6 +11,7 @@ ZSH_THEME="pure" #"robbyrussell"
 # Example aliases
 alias zshconfig="mate ~/.zshrc"
 alias ohmyzsh="mate ~/.oh-my-zsh"
+alias gca="git commit -a"
 
 # Set to this to use case-sensitive completion
 CASE_SENSITIVE="false"
